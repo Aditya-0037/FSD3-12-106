@@ -1,1 +1,1 @@
-const f1
+const f1 =()
