@@ -1,4 +1,5 @@
 //-------- Fun.js code-----------
+// Converts a number (0-9) to its word representation
 
 function numberToWord(num) {
   switch (num) {

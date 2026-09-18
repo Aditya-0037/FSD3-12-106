@@ -1,3 +1,4 @@
+// CommonJS function demo
 const f1 = () => {
   console.log("f1");
 }   ;
