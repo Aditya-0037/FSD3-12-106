@@ -1,3 +1,4 @@
+// EventEmitter demo: form submit event with credentials
 import { EventEmitter } from "events";
 
 const form = new EventEmitter();

@@ -1,3 +1,4 @@
+// EventEmitter demo: custom DomClass wrapping addEventListener
 import { EventEmitter } from "events";
 
 class DomClass extends EventEmitter {
