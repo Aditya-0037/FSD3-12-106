@@ -1,3 +1,4 @@
+// Lab 2: CRUD operations on product.json via readline prompts
 import readline from "readline/promises";
 import { stdin, stdout } from "process";
 import { readFile, writeFile } from "fs/promises";
