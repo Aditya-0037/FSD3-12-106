@@ -1,3 +1,4 @@
+// EventEmitter demo: click handler with username argument
 import { EventEmitter } from "events";
 
 const button = new EventEmitter();

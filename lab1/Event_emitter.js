@@ -1,3 +1,4 @@
+// EventEmitter demo: system start event
 import {EventEmitter} from "node:events";
 
 const start = () => {
