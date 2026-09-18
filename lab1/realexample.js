@@ -1,4 +1,5 @@
 // orderSystem.mjs
+// Real-world example: order placement using EventEmitter
 import { EventEmitter } from "node:events";
 
 class OrderSystem extends EventEmitter {

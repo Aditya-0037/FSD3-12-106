@@ -1,3 +1,4 @@
+// Lab 1: intro console output
 console.log("Hello, World!");
 console.log("aditya upadhyay");
 function sum(a, b) {

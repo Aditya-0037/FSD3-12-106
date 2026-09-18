@@ -1,4 +1,6 @@
-# EventLoop 
+# EventLoop
+
+Lab 1 notes on the JS event loop, async behaviour, and module systems.
 
 JS is a synchronous and single threaded byfault 
  
