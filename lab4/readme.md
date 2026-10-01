@@ -23,3 +23,11 @@ in type : common => means program through oops and module means porgram through 
 - REST API uses ( get , post , put , patch , delete) methon to communicate with client 
 - any browser can check only get method
 - for other methond type we use third party API tester like postman , thunder client , echo api etc
+
+## request type
+- get all ,get by id
+- URL   Get: api/product
+        Get: api/product/101
+- post: /api/product 
+- put/patch: /api/products/201       body {........}
+-delete: /api/product/110
